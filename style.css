@@ -78,3 +78,7 @@ li:first-child{
 li:last-child{
   font-style: italic;
 }
+
+/* li:nth-child(odd){  can also specify 3,4,etc
+  color: red;
+} */
