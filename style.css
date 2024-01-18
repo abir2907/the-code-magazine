@@ -36,6 +36,10 @@ li {
   margin-bottom: 10px;
 }
 
+li:last-child {
+  margin-bottom: 0;
+}
+
 p {
   font-size: 22px;
 
