@@ -8,6 +8,19 @@ body {
   font-family: sans-serif;
 }
 
+.main-header {
+  background-color: #f7f7f7;
+  padding: 20px 40px; /*20 is vertical and 40 is horizontal*/
+  margin-bottom: 60px;
+}
+
+aside {
+  background-color: #f7f7f7;
+  border-top: 5px solid #1098ad;
+  border-bottom: 5px solid #1098ad;
+  padding: 50px 0;
+}
+
 h1,
 h2,
 h3 {
@@ -78,21 +91,8 @@ ol {
   list-style: none;
 }
 
-.main-header {
-  background-color: #f7f7f7;
-  padding: 20px 40px; /*20 is vertical and 40 is horizontal*/
-  margin-bottom: 60px;
-}
-
 .post-header {
   margin-bottom: 40px;
-}
-
-aside {
-  background-color: #f7f7f7;
-  border-top: 5px solid #1098ad;
-  border-bottom: 5px solid #1098ad;
-  padding: 50px 0;
 }
 
 li:first-child {
