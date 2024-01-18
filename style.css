@@ -61,6 +61,7 @@ p {
 
 .main-header {
   background-color: #f7f7f7;
+  padding: 20px 40px; /*20 is vertical and 40 is horizontal*/
 }
 
 aside {
