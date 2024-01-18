@@ -25,6 +25,10 @@ nav {
   font-size: 18px;
 }
 
+article {
+  margin-bottom: 60px;
+}
+
 h1,
 h2,
 h3 {
