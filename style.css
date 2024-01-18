@@ -1,84 +1,93 @@
-
-h1, h2, h3 ,h4, p, li{
+h1,
+h2,
+h3,
+h4,
+p,
+li {
   font-family: sans-serif;
   color: #444;
 }
 
-h1, h2, h3{
+h1,
+h2,
+h3 {
   color: #1098ad;
 }
 
-h1{
+h1 {
   font-size: 26px;
-  
+
   text-transform: uppercase;
   font-style: italic;
 }
 
-h2{
+h2 {
   font-size: 40px;
-  
 }
 
-h3{
+h3 {
   font-size: 30px;
-  
 }
 
-h4{
+h4 {
   font-size: 20px;
-  
+
   text-transform: uppercase;
   text-align: center;
 }
 
-li{
-  
+li {
   font-size: 20px;
 }
 
-p{
+p {
   font-size: 22px;
-  
-  line-height: 1.5; 
+
+  line-height: 1.5;
 }
 
-#author{
+#author {
   font-style: italic;
   font-size: 18px;
 }
 
-#copyright{
+#copyright {
   font-size: 16px;
 }
 
-.related-author{
+.related-author {
   font-size: 18px;
   font-weight: bold;
 }
 
-.related{
+.related {
   list-style: none;
 }
 
-.main-header{
+.main-header {
   background-color: #f7f7f7;
 }
 
-aside{
+aside {
   background-color: #f7f7f7;
   border-top: 5px solid #1098ad;
   border-bottom: 5px solid #1098ad;
 }
 
-li:first-child{
+li:first-child {
   font-weight: bold;
 }
 
-li:last-child{
+li:last-child {
   font-style: italic;
 }
 
 /* li:nth-child(odd){  can also specify 3,4,etc
   color: red;
 } */
+
+/* this will not work cuz p is not the 1st child of article,
+1st child is header */
+article p:first-child {
+  color: red;
+}
