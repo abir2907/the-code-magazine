@@ -91,3 +91,8 @@ li:last-child {
 article p:first-child {
   color: red;
 }
+
+a:link {
+  color: #1098ad;
+  text-decoration: none;
+}
