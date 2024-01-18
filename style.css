@@ -52,6 +52,12 @@ p {
   margin-bottom: 15px;
 }
 
+ul,
+ol {
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
 #author {
   font-style: italic;
   font-size: 18px;
