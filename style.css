@@ -8,6 +8,8 @@ body {
   color: #444;
   font-family: sans-serif;
   border-top: 10px solid #1098ad;
+
+  position: relative;
 }
 
 .container {
