@@ -159,3 +159,7 @@ nav a:link {
   margin-right: 30px;
   margin-top: 10px;
 }
+
+nav a:link:last-child {
+  margin-right: 0;
+}
