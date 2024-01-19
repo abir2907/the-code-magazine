@@ -153,3 +153,9 @@ a:active {
   width: 100%; /*this is percentage of the parents element*/
   height: auto;
 }
+
+nav a:link {
+  display: inline-block;
+  margin-right: 30px;
+  margin-top: 10px;
+}
