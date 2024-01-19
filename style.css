@@ -142,3 +142,8 @@ a:active {
   background-color: black;
   font-style: italic;
 }
+
+.post-img {
+  width: 100%; /*this is percentage of the parents element*/
+  height: auto;
+}
