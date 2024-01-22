@@ -208,3 +208,11 @@ h2::after {
   margin-left: 20px;
   margin-top: 10px;
 }
+
+h1 {
+  float: left;
+}
+
+nav {
+  float: right;
+}
