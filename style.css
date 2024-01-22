@@ -225,8 +225,10 @@ nav {
 
 article {
   width: 900px;
+  float: left;
 }
 
 aside {
   width: 300px;
+  float: right;
 }
