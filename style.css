@@ -200,6 +200,7 @@ h2::after {
 
 .author-img {
   float: left;
+  margin-bottom: 20px;
 }
 
 .author {
