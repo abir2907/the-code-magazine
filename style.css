@@ -222,3 +222,11 @@ nav {
   clear: both;
   display: block;
 }
+
+article {
+  width: 900px;
+}
+
+aside {
+  width: 300px;
+}
