@@ -197,6 +197,7 @@ h2::after {
   right: -25px;
 }
 
+/* FLEXBOX */
 .main-header {
   display: flex;
 }
