@@ -205,4 +205,5 @@ h2::after {
 
 .author-box {
   display: flex;
+  align-items: center;
 }
