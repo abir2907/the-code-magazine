@@ -206,6 +206,7 @@ h2::after {
 .author-box {
   display: flex;
   align-items: center;
+  margin-bottom: 15px;
 }
 
 .author {
