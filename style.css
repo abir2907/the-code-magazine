@@ -200,4 +200,5 @@ h2::after {
 .main-header {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
