@@ -207,3 +207,8 @@ h2::after {
   display: flex;
   align-items: center;
 }
+
+.author {
+  margin-bottom: 0;
+  margin-left: 15px;
+}
