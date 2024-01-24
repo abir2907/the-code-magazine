@@ -221,4 +221,7 @@ h2::after {
 
 .related-author {
   margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: italic;
 }
