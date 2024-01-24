@@ -231,4 +231,5 @@ h2::after {
   font-weight: bold;
   font-style: normal;
   margin-bottom: 5px;
+  display: block;
 }
