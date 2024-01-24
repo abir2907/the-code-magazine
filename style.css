@@ -216,4 +216,5 @@ h2::after {
 
 .related-post {
   display: flex;
+  align-items: center;
 }
