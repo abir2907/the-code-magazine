@@ -218,3 +218,7 @@ h2::after {
   display: flex;
   align-items: center;
 }
+
+.related-author {
+  margin-bottom: 0;
+}
