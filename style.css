@@ -239,3 +239,7 @@ h2::after {
 .row {
   display: flex;
 }
+
+aside {
+  flex: 0 0 300px;
+}
