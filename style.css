@@ -238,6 +238,7 @@ h2::after {
 
 .row {
   display: flex;
+  gap: 75px;
 }
 
 article {
