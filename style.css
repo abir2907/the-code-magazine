@@ -242,7 +242,7 @@ h2::after {
 }
 
 article {
-  flex: 0 0 825;
+  flex: 1;
 }
 
 aside {
