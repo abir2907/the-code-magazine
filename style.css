@@ -243,6 +243,7 @@ h2::after {
 
 article {
   flex: 1;
+  margin-bottom: 0;
 }
 
 aside {
