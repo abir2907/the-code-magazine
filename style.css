@@ -235,3 +235,7 @@ h2::after {
   margin-bottom: 5px;
   display: block;
 }
+
+.row {
+  display: flex;
+}
