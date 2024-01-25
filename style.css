@@ -240,6 +240,10 @@ h2::after {
   display: flex;
 }
 
+article {
+  flex: 0 0 825;
+}
+
 aside {
   flex: 0 0 300px;
 }
