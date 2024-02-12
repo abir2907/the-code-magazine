@@ -21,7 +21,6 @@ body {
 .main-header {
   background-color: #f7f7f7;
   padding: 20px 40px; /*20 is vertical and 40 is horizontal*/
-  margin-bottom: 60px;
 }
 
 aside {
@@ -34,10 +33,6 @@ aside {
 
 nav {
   font-size: 18px;
-}
-
-article {
-  margin-bottom: 60px;
 }
 
 /*SMALLER ELEMENTS*/
@@ -240,6 +235,7 @@ h2::after {
 .container {
   display: grid;
   grid-template-columns: 1fr 300px;
+  column-gap: 75px;
 }
 
 .main-header {
